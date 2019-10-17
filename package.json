@@ -1,6 +1,6 @@
 {
   "name": "array-reject",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "`Array.prototype.reject(callback)` return new array which removed value matched condition. :warning: This module extend the global Array.prototype.",
   "main": "lib/index.js",
   "keywords": [

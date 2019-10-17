@@ -1,3 +1,4 @@
+[![NPM version](https://badgen.net/npm/v/@kikiki_kiki/array-reject)](https://www.npmjs.com/package/@kikiki_kiki/array-reject)
 [![Build Status](https://travis-ci.org/chaika-design/array_reject.svg?branch=master)](https://travis-ci.org/chaika-design/array_reject)
 [![codecov](https://codecov.io/gh/chaika-design/array_reject/branch/master/graph/badge.svg)](https://codecov.io/gh/chaika-design/array_reject)
 [![MIT License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/chaika-design/array_reject/blob/master/package.json)
@@ -11,13 +12,13 @@ This is the opposite of `Array.prototype.filter`!
 ## install
 
 ```sh
-$ git clone git@github.com:chaika-design/array_reject.git
+$ npm install array-reject
 ```
 
 ## usage
 
 ```js
-import './array-reject';
+import 'array-reject';
 ```
 
 example
@@ -107,7 +108,7 @@ And run old reject function before this `Array.prototype.reject`.
 :ok_hand:
 ```js
 import './my-array-reject';
-import './array-reject';
+import 'array-reject';
 ```
 
 :innocent:
@@ -117,7 +118,7 @@ Array.prototype.reject = function() {
   // ...
 }
 
-import './array-reject';
+import 'array-reject';
 ```
 
 example
@@ -137,7 +138,7 @@ Array.prototype.reject = function(index) {
 
 ```js
 import './my-array-reject';
-import './array-reject';
+import 'array-reject';
 
 const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
