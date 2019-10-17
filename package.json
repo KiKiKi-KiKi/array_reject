@@ -21,6 +21,7 @@
     "@babel/core": "^7.6.4",
     "@babel/plugin-transform-modules-commonjs": "^7.6.0",
     "@babel/preset-env": "^7.6.3",
+    "codecov": "^3.6.1",
     "jest": "^24.9.0"
   }
 }
