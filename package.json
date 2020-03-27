@@ -1,6 +1,6 @@
 {
   "name": "array-reject",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "`Array.prototype.reject(callback)` return new array which removed value matched condition. :warning: This module extend the global Array.prototype.",
   "main": "lib/index.js",
   "keywords": [
@@ -16,9 +16,9 @@
     "build": "./node_modules/.bin/babel src/index.js --out-dir lib/ --source-maps",
     "prepublishOnly": "npm run build"
   },
-  "repository": "git@github.com:chaika-design/array_reject.git",
+  "repository": "git@github.com:KiKiKi-KiKi/array_reject.git",
   "bugs": {
-    "url": "https://github.com/chaika-design/array_reject/issues"
+    "url": "https://github.com/KiKiKi-KiKi/array_reject/issues"
   },
   "author": "Mori Hayashi <mori.kiki.hayashi@gmail.com> (https://twitter.com/KiKiKi_KiKi)",
   "license": "MIT",

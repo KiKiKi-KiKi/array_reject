@@ -1,7 +1,7 @@
 [![NPM version](https://badgen.net/npm/v/array-reject)](https://www.npmjs.com/package/array-reject)
-[![Build Status](https://travis-ci.org/chaika-design/array_reject.svg?branch=master)](https://travis-ci.org/chaika-design/array_reject)
-[![codecov](https://codecov.io/gh/chaika-design/array_reject/branch/master/graph/badge.svg)](https://codecov.io/gh/chaika-design/array_reject)
-[![MIT License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/chaika-design/array_reject/blob/master/package.json)
+[![Build Status](https://travis-ci.org/KiKiKi-KiKi/array_reject.svg?branch=master)](https://travis-ci.org/KiKiKi-KiKi/array_reject)
+[![codecov](https://codecov.io/gh/KiKiKi-KiKi/array_reject/branch/master/graph/badge.svg)](https://codecov.io/gh/KiKiKi-KiKi/array_reject)
+[![MIT License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/KiKiKi-KiKi/array_reject/blob/master/package.json)
 
 # array-reject
 
